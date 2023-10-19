@@ -12,5 +12,5 @@ pyOpenSSL==18.0.0
 pyparsing==2.2.0
 pywin32==304; sys_platform == 'win32'
 requests==2.26.0
-urllib3==1.26.5
+urllib3==1.26.18
 websocket-client==0.56.0
